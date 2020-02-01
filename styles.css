@@ -1,0 +1,28 @@
+.hello_title {
+    font-size: 20px;    
+    margin-top: 10%;
+    width: 100%;    
+    text-align: center;
+}
+
+.input_block {
+    margin-top: 30px;
+    width: 450px;
+    margin-left: auto;
+    margin-right: auto;
+}
+
+#inputField {
+    font-size: 18px;
+    height: 20px;
+    width: 350px;
+}
+
+.output_block {
+    visibility: hidden;
+    font-size: 20px;
+    margin-top: 30px;
+    width: 400px;
+    margin-left: auto;
+    margin-right: auto;
+}
